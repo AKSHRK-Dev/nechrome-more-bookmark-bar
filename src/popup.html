@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head><meta charset="utf-8"><link rel="stylesheet" href="popup.css"><style>body{width:280px}.rows{display:grid;grid-template-columns:repeat(5,1fr);gap:6px}.rows button{padding:10px 0;font-size:15px;font-weight:700}#status{min-height:18px;margin:10px 0 0;color:var(--muted);font-size:12px}</style></head>
+<body>
+  <header><img src="icons/32.png" alt=""><h1 data-i18n="name"></h1></header>
+  <main>
+    <div id="need" class="notice" hidden><span data-i18n="needNeChrome"></span> <a href="https://group.ashikanw.com/" target="_blank" data-i18n="getNeChrome"></a></div>
+    <p class="note"><b data-i18n="rows"></b></p>
+    <div class="rows" id="rows"></div>
+    <p class="note" style="margin-top:10px" data-i18n="rowsNote"></p>
+    <p id="status"></p>
+  </main>
+  <footer>Developed by <a href="https://group.ashikanw.com/" target="_blank">ASHIKA Group</a></footer>
+  <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "name": { "message": "More Bookmark Bar" },
+  "description": { "message": "NeChrome のブックマークバーを、2 段・3 段に折り返して表示します。" },
+  "rows": { "message": "ブックマークバーの段数" },
+  "rowsNote": { "message": "入りきらないブックマークを、隠さずに次の段へ並べます。それでも入らない分は » のメニューに入ります。" },
+  "rowUnit": { "message": "段" },
+  "saved": { "message": "変更しました。" },
+  "needNeChrome": { "message": "この拡張機能は NeChrome 専用です。Chrome ではブックマークバーの段数を変えられません。" },
+  "getNeChrome": { "message": "NeChrome を入手" }
+}

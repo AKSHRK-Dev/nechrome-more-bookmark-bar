@@ -1,0 +1,10 @@
+{
+  "name": { "message": "More Bookmark Bar" },
+  "description": { "message": "Lets the NeChrome bookmark bar wrap onto two or three rows." },
+  "rows": { "message": "Bookmark bar rows" },
+  "rowsNote": { "message": "Bookmarks that do not fit move to the next row instead of being hidden. Anything still left over goes to the » menu." },
+  "rowUnit": { "message": "rows" },
+  "saved": { "message": "Changed." },
+  "needNeChrome": { "message": "This extension works only in NeChrome. Chrome does not let extensions change the bookmark bar." },
+  "getNeChrome": { "message": "Get NeChrome" }
+}
